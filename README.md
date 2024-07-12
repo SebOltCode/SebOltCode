@@ -24,7 +24,7 @@ In this repository, you'll find a collection of my work, from simple web pages t
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -43,7 +43,7 @@ In this repository, you'll find a collection of my work, from simple web pages t
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -55,7 +55,7 @@ In this repository, you'll find a collection of my work, from simple web pages t
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
 
 
