@@ -96,5 +96,3 @@ In this repository, you'll find a collection of my work, from simple web pages t
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
