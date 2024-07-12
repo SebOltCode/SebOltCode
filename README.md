@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SebOltCode/SebOltCode/blob/main/IMG_20170824_134026_943.jpg" align="center" style="width: 100%" />
+<img src="https://github.com/SebOltCode/SebOltCode/blob/main/IMG_20170824_134026_943.jpg" align="center" style="width: 20%" />
 </div>  
   
 
