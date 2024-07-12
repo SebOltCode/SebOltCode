@@ -82,8 +82,11 @@ In this repository, you'll find a collection of my work, from simple web pages t
 
   
 
+<br/>  
 
- 
+  
+
+<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SebOltCode&&style=flat-square" align="center" />
