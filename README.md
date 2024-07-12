@@ -58,6 +58,12 @@ In this repository, you'll find a collection of my work, from simple web pages t
 </td><td valign="top" width="33%">
 
 
+
+</table>  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
@@ -98,3 +104,4 @@ In this repository, you'll find a collection of my work, from simple web pages t
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
