@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/SebOltCode/SebOltCode/blob/main/IMG_20170824_134026_943.jpg" align="center" style="width: 20%" />
+<img src="https://github.com/SebOltCode/SebOltCode/blob/main/IMG_20170824_134026_943.jpg" align="center" style="width: 10%" />
 </div>  
   
 
@@ -59,11 +59,6 @@ In this repository, you'll find a collection of my work, from simple web pages t
 
 
 
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
@@ -84,24 +79,13 @@ In this repository, you'll find a collection of my work, from simple web pages t
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
-<br/>  
+
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=SebOltCode&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+ 
