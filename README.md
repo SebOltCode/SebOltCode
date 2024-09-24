@@ -16,7 +16,7 @@ Feel free to explore and follow my journey as I continue to grow and develop my 
 
 - 🔭 I’m currently working on ["this App"](https://inclusivetrip.onrender.com).
   InclusiveTrip is a web application designed to help people with special needs plan city trips. The app allows users to access reviews from other users who have rated various locations, such as restaurants, museums, cinemas and many more, based on their specific needs. For example, wheelchair users can find detailed accessibility ratings for different places, making it easier to plan a barrier-free and enjoyable city vacation.
-  I am the Producht Owner of InclusiveTrip and is my final project from the bootcamp, but my colleagues and I are so convinced of its potential and societal impact that we've decided to continue developing it beyond the program. We believe this app can truly benefit the community, and we are committed to adding more features and expanding its capabilities to make city trips more accessible and enjoyable for everyone.
+  I am the Producht Owner of InclusiveTrip and it is my final project from the bootcamp, but my colleagues and I are so convinced of its potential and societal impact that we've decided to continue developing it beyond the program. We believe this app can truly benefit the community, and we are committed to adding more features and expanding its capabilities to make city trips more accessible and enjoyable for everyone.
 
 <br/>
 
